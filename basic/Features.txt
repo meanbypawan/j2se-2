@@ -1,0 +1,59 @@
+Java Features :-
+  1. Object Oriented
+       Class
+       Object
+       Encapsulation
+       Abstraction
+       Polymorphism
+       Inheritance
+  2. Simple
+      a. Syntax & Semantics (c/c++)
+      b. Naming Convention
+
+  3. Platform Independent          
+     c/c++
+      windows
+      App.c ------> Compiler ------> Machine Code
+      Java[Windows]
+      App.java-----> Java Compiler----> Byte Code [.class]
+      
+      Byte Code[.class]
+       |----linux (JVM)
+       |----Windows (JVM)
+       |---Mac (JVM)
+    
+      .class[Byte Code] :- Independent
+      JVM :--------------  Dependent
+ 4.  Robust:-
+      a. Memory Management Mechanism is very strong [Garbage Collector]
+      b. You can make java code reliable [Exception Handling]     
+
+      c Programming
+      DMA
+       calloc()
+       malloc() ------> Memory created
+       realloc()
+        + 
+       free() 
+ 5. Multithreaded
+ 7. Secure 
+ -------------------------------     
+ Install Java
+   JDK1.8 [Java Development Kit]
+
+   JDK = DT[javac,java,javap...] + JRE(Java Runtime Enviornment)
+   JRE = JVM + API(rt.jar) {JAR=>Java Archive}
+   JVM = To execute Byte Code (Interpreter)
+----------------------------------------
+ 
+
+
+
+
+
+
+
+
+
+
+
