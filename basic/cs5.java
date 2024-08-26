@@ -14,14 +14,15 @@ class TestMain{
        Scanner sc = new Scanner(System.in);
        
        System.out.println("Enter a value between (1 to 5)");
-       int n  = sc.nextInt();
+       //int n  = sc.nextInt();
        // n = 3
        int a = 2, b = 1;
-       switch(n){
+       String n = "Heello"; 
+       switch(n){ // switch expression
          case 1: System.out.println("One");break;
          case 2: System.out.println("Two");break;
          case 2+1: System.out.println("Three");break;
-         case 4-1: System.out.println("Four");break;
+         case 4: System.out.println("Four");break;
          case 5: System.out.println("Five"); break;     
          default: System.out.println("Invalid value..."); 
        } 
