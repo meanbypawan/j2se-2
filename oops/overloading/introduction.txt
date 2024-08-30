@@ -1,0 +1,21 @@
+Polymorphism :-
+ One thing has different implemnetation
+ Example :-
+  Male Personality [Cheeku]
+    Home :- Son, Husband
+    School :- Student
+    Workplace :- Collegue
+    Other :- Friend, Enemy
+---------------------------------------
+1. Compile Time Polymorphism / Early Binding
+   Method Overloading :-
+     When we define multiple method in a class with the same whose parameter are different is called method overloading.
+
+     Way of keeping different parameter
+     a. numbers
+     b. types
+     c. sequence
+     Note :- 
+     1. In case method overloading return type doesn't matter.
+     2. We can overload static & instance method both
+2. Runtime polymorphism / Late Binding   
