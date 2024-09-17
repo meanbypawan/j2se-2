@@ -1,0 +1,21 @@
+Exception-Handling :-
+ a. Why Exception
+ b. What is Exception
+ c. How to deal with Exception
+
+ Run:-
+
+ s----1;
+ s----2;
+ s----3;
+ s----4;
+
+ Normal Execution/Termination Of Program [When code execute completly]
+ Abnoraml Termination Of Program :---- Exception
+------------------------------------------------------
+Predefined Exception
+User Defined Exception
+
+
+
+
