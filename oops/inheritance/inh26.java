@@ -2,12 +2,6 @@
 interface I{
     void wish();
 }
-/*
- wish() --> GM
- wish()---> GE
- wish()---> GN 
- 
- */
 class TestMain {
    public static void main(String args[]){
     I obj = ()->System.out.println("GM...");

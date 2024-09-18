@@ -15,6 +15,44 @@ Exception-Handling :-
 ------------------------------------------------------
 Predefined Exception
 User Defined Exception
+------------------------------------
+Object
+ |
+Throwable
+ |---Error
+ |---Exception
+      |-IOException
+      |-SQL Exception
+      |-ClassNotFoundException
+      |-RuntimeException
+         |--AirthmeticException
+         |--NullPointerException
+         |--IndexOutOfBoundsException
+         |--ArrayIndexOutOfBoundsException
+         |--StringIndexOutOfBoundsException
+         |--NumberFormattedException
+         |--InputMismatchException
+         .....
+Types of Exception
+  a. Checked Exception  :- All the sub classes of exception but excluding RuntimeException is called Checked
+  b. Unchecked Exception :- All the sub classes of RuntimeException are called unchecked.         
+----------------------------------------------
+try, catch, finally, throw, throws
+
+try,catch,finall ===> block
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
