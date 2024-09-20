@@ -40,6 +40,35 @@ Types of Exception
 try, catch, finally, throw, throws
 
 try,catch,finall ===> block
+-----------------------------------------------
+try block
+
+try{
+ s-----------1;
+ s-----------2;               JVM
+ c = a / b; ----------------> throw new AirthmeticException()
+ System.out.println(c);
+ S.o.println("hello");
+}
+catch(AirthmeticException lili){
+
+}
+----
+----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

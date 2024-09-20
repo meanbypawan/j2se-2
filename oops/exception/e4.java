@@ -25,11 +25,8 @@ class TestMain {
       System.out.println("Result : "+c);
 
     }
-    catch(ArithmeticException e){
-       System.out.println("Dnominator can't be zero..");
-    }
     catch(Exception e){
-      System.out.println("Oops! something went wrong..");
+        System.out.println("Oops! something went wrong..");
     }
     System.out.println("At the end.....");
    }    
