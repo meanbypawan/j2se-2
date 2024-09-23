@@ -3,6 +3,11 @@
  */
 class A{
     public int m1(){
+       try{ 
+        /*
+         ---
+         ---
+         */
         return 100;
     }
 }

@@ -1,0 +1,59 @@
+File[File-Handling] :-
+
+Java-application <--------------> File
+                 
+File :- It is an object                 
+---------------------------------
+import java.io.File;
+
+IOException
+  |
+FileNoutFoundException
+Checked
+--------------------------------------
+file-Handling [folder/directory]
+  |--introduction.txt[file]
+
+getName()
+getAbosulutePath()
+isHidden()
+canRead()
+canWrite()
+canExecute()
+length()
+lastModified()
+isFile()
+isDirectory()
+------------------------------------------
+Read|Write Operation :-
+
+Java-application<--------------->File
+                     Stream
+File :-
+  a. Text File
+  b. Binary File
+Stream :- It is sequence of bytes/data
+  a.Character Stream [Text File / Character Oriented Data]
+  b. Byte Stream [Binary file] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

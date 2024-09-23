@@ -1,0 +1,7 @@
+Java is very simple
+Java is object Oriented
+Java is robust
+Java is platform independent
+Java is architectural neutral
+Java is secured
+Java is multithreaded.
