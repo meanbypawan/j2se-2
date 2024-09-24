@@ -30,14 +30,21 @@ Read|Write Operation :-
 Java-application<--------------->File
                      Stream
 File :-
-  a. Text File
-  b. Binary File
+  a. Text File [.txt]
+  b. Binary File [.docx,xlsx, csv, pdf, jpeg.....]
 Stream :- It is sequence of bytes/data
   a.Character Stream [Text File / Character Oriented Data]
   b. Byte Stream [Binary file] 
+--------------------------------------
+Byte Stream
 
+OutputStream [Write Operation]
+  |
+FileOutputStream
 
-
+InputStream [Read Operation]
+  |
+FileInputStream  
 
 
 
